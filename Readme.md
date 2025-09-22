@@ -1,6 +1,6 @@
 # Теория
 
-1. [Emmet](./Theory/Lorem.md)
+1. [Lorem](./Theory/Lorem.md)
 2. [Void-элементы](./Theory/Void-Elements.md)
 
 ---
